@@ -26,5 +26,3 @@
 <a href="https://www.wolfram.com/mathematica" target="_blank" rel="noreferrer"> <img src="https://github.com/JasonL1422/Images/blob/main/mathematica.png" alt="Mathematica" width="40" height="40"/> </a> 
 <a href="https://www.solidworks.com" target="_blank" rel="noreferrer"> <img src="https://github.com/JasonL1422/Images/blob/main/sw.png" alt="SolidWorks" width="90" height="40"/> </a> 
 <a href="https://www.3ds.com/products/simulia/abaqus" target="_blank" rel="noreferrer"> <img src="https://github.com/JasonL1422/Images/blob/main/Abaqus.png" alt="Abaqus" width="90" height="45"/> </a> </p>
-
-https://github.com/JasonL1422/Images/blob/main/Abaqus.png
