@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="700" src="https://github.com/JasonL1422/storage/blob/main/gg.png" />
+  <img width="700" src="https://github.com/JasonL1422/Images/blob/main/main.png" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Jong</h1>
 <h3 align="center">A PhD student at Penn State ChE</h3>
-<img align="right" alt="Coding" width="300" src="https://github.com/JasonL1422/storage/blob/main/JLimoji.png">
+<img align="right" alt="Coding" width="300" src="https://github.com/JasonL1422/Images/blob/main/JLimoji.png">
 
 
 - 🌱 This space to share the **Mathematica** and **Python** scripts that I created during my research
