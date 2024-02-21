@@ -10,6 +10,7 @@
 - **XRD, SAXS/WAXS, AFM, AFM-IR, FTIR, VSFG, nonlinear spectroscopy, PCA, FEA, Abaqus**
 - **Cellulose, soft matter structure-property relationship, polymer mechanics**
 - **Code development for large data processing (hyperspectral image, multiple spectra, etc.) & optical modeling**
+- 🔬 **[Google Scholar](https://scholar.google.com/citations?user=D79p8IoAAAAJ&hl=en&oi=ao)**
   
 - 📫 **jongcheol1422@gmail.com**
 
