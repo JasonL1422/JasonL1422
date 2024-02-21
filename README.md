@@ -8,7 +8,7 @@
 
 - 💬 Ask me about:
 - **XRD, SAXS/WAXS, AFM, AFM-IR, FTIR, VSFG, nonlinear spectroscopy, PCA, FEA, Abaqus**
-- **cellulose, soft matter structure-property relationship, polymer mechanics**
+- **Cellulose, soft matter structure-property relationship, polymer mechanics**
 - **Code development for large data processing (hyperspectral image, multiple spectra, etc.) & optical modeling**
   
 - 📫 **jongcheol1422@gmail.com**
@@ -19,25 +19,46 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.wolfram.com/mathematica" target="_blank" rel="noreferrer"> <img src="https://github.com/JasonL1422/Images/blob/main/mathematica.png" alt="Mathematica" width="40" height="40"/> </a>
+
+<table>
+<tr>
+<!-- Mathematica Column -->
+<td align="center" valign="top" width="33%">
+  <a href="https://www.wolfram.com/mathematica" target="_blank" rel="noreferrer">
+    <img src="https://github.com/JasonL1422/Images/blob/main/mathematica.png" alt="Mathematica" width="60" >
+  </a>
+  <!-- List of links -->
   
-* Optical modeling [here](https://github.com/JasonL1422/Optical-modeling-for-crossed-polarization-microscopy-intensity)
-* Data processing [here](https://github.com/JasonL1422/hyperspectral-image-data-processing-through-Mathematica)
-* Angle distribution visualization [here](https://github.com/JasonL1422/fiber-distribution)
-</p>
+- Optical modeling [here](https://github.com/JasonL1422/Optical-modeling-for-crossed-polarization-microscopy-intensity)
+- Data processing [here](https://github.com/JasonL1422/hyperspectral-image-data-processing-through-Mathematica)
+- Angle distribution visualization [here](https://github.com/JasonL1422/fiber-distribution)
 
-<p align="left">
-<a href="https://www.3ds.com/products/simulia/abaqus" target="_blank" rel="noreferrer"> <img src="https://github.com/JasonL1422/Images/blob/main/Abaqus.png" alt="Abaqus" width="90" height="45"/> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</td>
 
-* Viridis color map conversion [here](https://github.com/JasonL1422/Viridis-color-map)
-* RMSE calculation [here](https://github.com/JasonL1422/multiple-RMSE-calculation)
-</p>
+<!-- Abaqus & Python Column -->
+<td valign="top" width="34%">
+ <a href="https://www.3ds.com/products/simulia/abaqus" target="_blank" rel="noreferrer">
+    <img src="https://github.com/JasonL1422/Images/blob/main/Abaqus.png" alt="Abaqus" width="130"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60"/>
+  </a>
+<!-- List of links -->
+  
+- Viridis color map conversion [here](https://github.com/JasonL1422/Viridis-color-map)
+- RMSE calculation [here](https://github.com/JasonL1422/multiple-RMSE-calculation)
 
-<p align="left">
-<a href="https://www.solidworks.com" target="_blank" rel="noreferrer"> <img src="https://github.com/JasonL1422/Images/blob/main/sw2.png" alt="SolidWorks" width="40" height="40"/> </a>
+</td>
 
-* CAD projects [here](https://github.com/JasonL1422/SolidWorks-CAD)
-</p>
+<!-- SolidWorks Column -->
+<td align="center" valign="top" width="33%">
+  <a href="https://www.solidworks.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/JasonL1422/Images/blob/main/sw2.png" alt="SolidWorks" width="65"/>
+  </a>
+  <!-- List of links -->
+  
+- CAD projects [here](https://github.com/JasonL1422/SolidWorks-CAD)
 
+</td>
+</tr>
+</table>
