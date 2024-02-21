@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="300" src="https://github.com/JasonL1422/storage/blob/main/JLimoji.png">
 
 
-- 🌱 This space to share the **Mathematica** and **Python** scripts that I developed during my research
+- 🌱 This space to share my **Mathematica** and **Python** scripts that I made during my research
 
 - 💬 Ask me about
     **Code development for large data processing (hyperspectral image, multiple spectra, etc.) and optical modeling**
