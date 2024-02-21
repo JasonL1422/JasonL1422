@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jong</h1>
 <h3 align="center">A PhD student at Penn State Chemical Engineering</h3>
-<img align="right" alt="Coding" width="500" src="https://github.com/JasonL1422/Images/blob/main/main2.png">
+<img align="right" alt="Coding" width="500" src="https://github.com/JasonL1422/Images/blob/main/main3.png">
 
 
 - 🌱 This space is for sharing the **Mathematica** and **Python** scripts that I created during my research, as well as SolidWorks projects, and more.
