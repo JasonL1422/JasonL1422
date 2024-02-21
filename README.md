@@ -20,21 +20,24 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  
 <a href="https://www.wolfram.com/mathematica" target="_blank" rel="noreferrer"> <img src="https://github.com/JasonL1422/Images/blob/main/mathematica.png" alt="Mathematica" width="40" height="40"/> </a>
+  
 * Optical modeling [here](https://github.com/JasonL1422/Optical-modeling-for-crossed-polarization-microscopy-intensity)
-* Hyperspectral image data process [here](https://github.com/JasonL1422/hyperspectral-image-data-processing-through-Mathematica)
-* Fiber distribution visualization [here](https://github.com/JasonL1422/fiber-distribution)
+* Data processing [here](https://github.com/JasonL1422/hyperspectral-image-data-processing-through-Mathematica)
+* Angle distribution visualization [here](https://github.com/JasonL1422/fiber-distribution)
+</p>
 
-<a href="https://www.3ds.com/products/simulia/abaqus" target="_blank" rel="noreferrer"> <img src="https://github.com/JasonL1422/Images/blob/main/Abaqus.png" alt="Abaqus" width="90" height="45"/>  
+<p align="left">
+<a href="https://www.3ds.com/products/simulia/abaqus" target="_blank" rel="noreferrer"> <img src="https://github.com/JasonL1422/Images/blob/main/Abaqus.png" alt="Abaqus" width="90" height="45"/> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 * Viridis color map conversion [here](https://github.com/JasonL1422/Viridis-color-map)
 * RMSE calculation [here](https://github.com/JasonL1422/multiple-RMSE-calculation)
-</a>
-<a href="https://www.solidworks.com" target="_blank" rel="noreferrer"> <img src="https://github.com/JasonL1422/Images/blob/main/sw.png" alt="SolidWorks" width="90" height="40"/> </a>
+</p>
+
+<p align="left">
+<a href="https://www.solidworks.com" target="_blank" rel="noreferrer"> <img src="https://github.com/JasonL1422/Images/blob/main/sw2.png" alt="SolidWorks" width="40" height="40"/> </a>
 
 * CAD projects [here](https://github.com/JasonL1422/SolidWorks-CAD)
-</a>
 </p>
 
