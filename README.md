@@ -33,6 +33,7 @@
 - Optical modeling [here](https://github.com/JasonL1422/Optical-modeling-for-crossed-polarization-microscopy-intensity)
 - Data processing [here](https://github.com/JasonL1422/hyperspectral-image-data-processing-through-Mathematica)
 - Angle distribution visualization [here](https://github.com/JasonL1422/fiber-distribution)
+- AFM-IR ratio map [here](https://github.com/JasonL1422/AFM-IR-amp-ratio-plot)
 
 </td>
 
