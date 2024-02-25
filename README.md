@@ -49,6 +49,7 @@
   
 - Viridis color map conversion [here](https://github.com/JasonL1422/Viridis-color-map)
 - RMSE calculation [here](https://github.com/JasonL1422/multiple-RMSE-calculation)
+- AFM-IR curve smoothening [here](https://github.com/JasonL1422/AFM-IR-spectra-smoothening/blob/main/README.md)
 
 </td>
 
