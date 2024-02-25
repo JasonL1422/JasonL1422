@@ -1,23 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm Jong</h1>
 <h3 align="center">A PhD student at Penn State Chemical Engineering</h3>
-<img align="right" alt="Coding" width="500" src="https://github.com/JasonL1422/Images/blob/main/main3.png">
+<img align="right" alt="Coding" width="450" src="https://github.com/JasonL1422/Images/blob/main/main3.png">
 
+🌱 This space is for sharing the **Mathematica** and **Python** scripts that I created during my research, as well as SolidWorks projects, and more. Hope you find it useful and feel free to contact for modification.
 
-- 🌱 This space is for sharing the **Mathematica** and **Python** scripts that I created during my research, as well as SolidWorks projects, and more.
-
-- 💬 Ask me about:
+💬 Ask me about:
 - **XRD, SAXS/WAXS, AFM, AFM-IR, FTIR, VSFG, nonlinear spectroscopy, PCA, FEA, Abaqus**
 - **Cellulose, soft matter structure-property relationship, polymer mechanics**
 - **Code development for large data processing (hyperspectral image, multiple spectra, etc.) & optical modeling**
 - 🔬 **[Google Scholar](https://scholar.google.com/citations?user=D79p8IoAAAAJ&hl=en&oi=ao)**
   
-- 📫 **jclee1422@gmail.com**, **jongcheol1422@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jongcheol-lee2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/jongcheol-lee2" height="30" width="40" /></a>
-</p>
+📫 **jclee1422@gmail.com**, **jongcheol1422@gmail.com**, **[Linkedin](http://www.linkedin.com/in/jongcheol-lee2)**
 
 <h3 align="left">Languages and Tools:</h3>
 
