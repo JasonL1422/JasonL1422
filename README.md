@@ -60,7 +60,7 @@
   </a>
   <!-- List of links -->
   
-- CAD projects [here](https://github.com/JasonL1422/SolidWorks-CAD)
+- CAD projects [here](https://github.com/JasonL1422/SolidWorks-CAD/blob/main/README.md)
 
 </td>
 </tr>
