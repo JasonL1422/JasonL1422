@@ -30,10 +30,10 @@
   </a>
   <!-- List of links -->
   
-- Optical modeling [here](https://github.com/JasonL1422/Optical-modeling-for-crossed-polarization-microscopy-intensity)
-- Data processing [here](https://github.com/JasonL1422/hyperspectral-image-data-processing-through-Mathematica)
-- Angle distribution visualization [here](https://github.com/JasonL1422/fiber-distribution)
-- AFM-IR ratio map [here](https://github.com/JasonL1422/AFM-IR-amp-ratio-plot)
+- Optical modeling [here](https://github.com/JasonL1422/Optical-modeling-for-crossed-polarization-microscopy-intensity/blob/main/README.md)
+- Data processing [here](https://github.com/JasonL1422/hyperspectral-image-data-processing-through-Mathematica/blob/main/README.md)
+- Angle distribution visualization [here](https://github.com/JasonL1422/fiber-distribution/blob/main/README.md)
+- AFM-IR ratio map [here](https://github.com/JasonL1422/AFM-IR-amp-ratio-plot/blob/main/README.md)
 
 </td>
 
@@ -47,7 +47,7 @@
   </a>
 <!-- List of links -->
   
-- Viridis color map conversion [here](https://github.com/JasonL1422/Viridis-color-map)
+- Viridis color map conversion [here](https://github.com/JasonL1422/Viridis-color-map/blob/main/README.md)
 - RMSE calculation [here](https://github.com/JasonL1422/multiple-RMSE-calculation)
 - AFM-IR curve smoothening [here](https://github.com/JasonL1422/AFM-IR-spectra-smoothening/blob/main/README.md)
 
