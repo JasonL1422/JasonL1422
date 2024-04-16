@@ -54,7 +54,9 @@
   </a>
   <!-- List of links -->
   
-- CAD projects [here](https://github.com/JasonL1422/SolidWorks-CAD/blob/main/README.md)
+- [Extensometer](https://github.com/JasonL1422/Extensometer/blob/main/README.md)
+- [Exhaust holder](https://github.com/JasonL1422/Exhaust-holder/blob/main/README.md)
+- [Others](https://github.com/JasonL1422/SolidWorks-CAD/blob/main/README.md)
 
 </td>
 </tr>
