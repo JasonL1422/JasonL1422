@@ -7,7 +7,8 @@
 
 💬 Ask me about:
 - **XRD, SAXS/WAXS, AFM, AFM-IR, FTIR, VSFG, nonlinear spectroscopy, PCA, FEA, Abaqus**
-- **Cellulose, soft matter structure-property relationship, polymer mechanics**
+- **Cellulose, soft matter structure&geometry - mechanical property relationship, polymer mechanics**
+- **Multi scale characterization of biomaterials**
 - **Code development for large data processing (hyperspectral image, multiple spectra, etc.) & optical modeling**
 - 🔬 **[Google Scholar](https://scholar.google.com/citations?user=D79p8IoAAAAJ&hl=en&oi=ao)**
   
