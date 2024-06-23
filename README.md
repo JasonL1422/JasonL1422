@@ -12,7 +12,7 @@
 - **Code development for large data processing (hyperspectral image, multiple spectra, etc.) & optical modeling**
 - 🔬 **[Google Scholar](https://scholar.google.com/citations?user=D79p8IoAAAAJ&hl=en&oi=ao)**
   
-📫 **jclee1422@gmail.com**, **jongcheol1422@gmail.com**, **[Linkedin](http://www.linkedin.com/in/jongcheol-lee2)**
+📫 **jongcheol1422@gmail.com**, **[Linkedin](http://www.linkedin.com/in/jongcheol-lee2)**
 
 <h3 align="left">Languages and Tools:</h3>
 
