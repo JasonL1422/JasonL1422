@@ -32,6 +32,7 @@
 
 <h3 align="left">Data processing:</h3>
 <ul>
+    <li><a href="https://github.com/JasonL1422/AFM-IR-ratiomap-v2/blob/main/README.md">AFM-IR ratio map v2</a></li>
     <li><a href="https://github.com/JasonL1422/hyperspectral-image-data-processing-through-Mathematica/blob/main/README.md">Hyperspectral image</a></li>
     <li><a href="https://github.com/JasonL1422/AFM-IR-amp-ratio-plot/blob/main/README.md">AFM-IR ratio map</a></li>
     <li><a href="https://github.com/JasonL1422/AFM-IR-spectra-smoothening/blob/main/README.md">AFM-IR curve smoothening</a></li>
