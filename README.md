@@ -29,6 +29,11 @@
     <li><a href="https://github.com/JasonL1422/Optical-modeling-for-crossed-polarization-microscopy-intensity/blob/main/README.md">CP intensity modeling</a></li>
 </ul>
 
+<h3 align="left"> Finite element analysis:</h3>
+<ul>
+    <li><a href="https://github.com/JasonL1422/Py-script-for-FEA-in-Abaqus/blob/main/README.md">Py script for parametric study</a></li>
+</ul>
+
 <h3 align="left">Data processing:</h3>
 <ul>
     <li><a href="https://github.com/JasonL1422/Avg_stress-strain_interpolation/blob/main/README.md">Stress-strain curve average</a></li>
