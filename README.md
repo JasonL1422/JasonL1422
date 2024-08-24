@@ -27,6 +27,7 @@
 <h3 align="left"> Optical modeling:</h3>
 <ul>
     <li><a href="https://github.com/JasonL1422/Optical-modeling-for-crossed-polarization-microscopy-intensity/blob/main/README.md">CP intensity modeling</a></li>
+    <li><a href="https://github.com/JasonL1422/Fabry-Perot-Etalon/blob/main/README.md">Fabry-Perot Etalon</a></li>
 </ul>
 
 <h3 align="left"> Finite element analysis:</h3>
