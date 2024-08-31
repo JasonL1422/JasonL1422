@@ -44,7 +44,6 @@
     <li><a href="https://github.com/JasonL1422/AFM-IR-spectra-smoothening/blob/main/README.md">AFM-IR curve smoothening</a></li>
     <li><a href="https://github.com/JasonL1422/fiber-distribution/blob/main/README.md">Angle distribution visualization</a></li>
     <li><a href="https://github.com/JasonL1422/Viridis-color-map/blob/main/README.md">Viridis color map conversion for finite element analysis</a></li>
-    <li><a href="https://github.com/JasonL1422/multiple-RMSE-calculation/blob/main/README.md">RMSE calculation-bulk</a></li>
 </ul>
 
 <h3 align="left">CAD Design Projects:</h3>
