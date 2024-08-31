@@ -32,7 +32,7 @@
 
 <h3 align="left"> Finite element analysis:</h3>
 <ul>
-    <li><a href="https://github.com/JasonL1422/Py-script-for-FEA-in-Abaqus/blob/main/README.md">Py script for parametric study</a></li>
+    <li><a href="https://github.com/JasonL1422/Py-script-for-FEA-in-Abaqus/blob/main/README.md">Abaqus parametric study</a></li>
 </ul>
 
 <h3 align="left">Data processing:</h3>
@@ -46,7 +46,7 @@
     <li><a href="https://github.com/JasonL1422/Viridis-color-map/blob/main/README.md">Viridis color map conversion for finite element analysis</a></li>
 </ul>
 
-<h3 align="left">CAD Design Projects:</h3>
+<h3 align="left">Design Projects:</h3>
 <ul>
     <li><a href="https://github.com/JasonL1422/Extensometer/blob/main/README.md">Extensometer</a></li>
     <li><a href="https://github.com/JasonL1422/Exhaust-holder/blob/main/README.md">Exhaust holder</a></li>
