@@ -35,6 +35,10 @@
       <img src="https://github.com/JasonL1422/Images/blob/main/mathematica.png" alt="Mathematica" width="15">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15"/>
     </li>
+    <li>
+      <a href="https://github.com/JasonL1422/3d-sfg-cal/blob/main/README.md">3d-sfg-calc</a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15"/>
+    </li>
 </ul>
 
 <h3 align="left"> Finite element analysis:</h3>
