@@ -51,6 +51,11 @@
       <a href="https://github.com/JasonL1422/pumpkin/blob/main/README.md">Pumpkin</a>
       <img src="https://github.com/JasonL1422/Images/blob/main/mathematica.png" alt="Mathematica" width="15">
     </li>
+    <li>
+      <a href="https://github.com/JasonL1422/diffraction-grating/blob/main/README.md">Diffraction grating</a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15"/>
+    </li>
+
 </ul>
 
 
