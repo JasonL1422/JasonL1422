@@ -41,6 +41,20 @@
     </li>
 </ul>
 
+<h3 align="left"> etc:</h3>
+<ul>
+    <li>
+      <a href="https://github.com/JasonL1422/mass-transfer-through-a-thin-film/blob/main/README.md">Mass transfer-thin-film</a>
+      <img src="https://github.com/JasonL1422/Images/blob/main/mathematica.png" alt="Mathematica" width="15">
+    </li>
+    <li>
+      <a href="https://github.com/JasonL1422/pumpkin/blob/main/README.md">Pumpkin</a>
+      <img src="https://github.com/JasonL1422/Images/blob/main/mathematica.png" alt="Mathematica" width="15">
+    </li>
+</ul>
+
+
+
 <h3 align="left"> Finite element analysis:</h3>
 <ul>
     <li>
