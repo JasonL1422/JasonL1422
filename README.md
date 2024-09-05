@@ -1,5 +1,5 @@
 
-<h1 align="center">👋, I'm Jong</h1>
+<h1 align="center">👋</h1>
 <h3 align="center">A PhD candidate at Penn State Chemical Engineering</h3>
 <img align="right" alt="Coding" width="450" src="https://github.com/JasonL1422/Images/blob/main/main3.png">
 
