@@ -55,6 +55,9 @@
       <a href="https://github.com/JasonL1422/diffraction-grating/blob/main/README.md">Diffraction grating</a>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15"/>
     </li>
+    <li>
+      <a href="https://github.com/JasonL1422/etc/blob/main/README.md">etc</a>
+    </li>
 
 </ul>
 
