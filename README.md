@@ -1,35 +1,33 @@
+<h3 align="left">PhD candidate at Penn State Chem Eng </h3>
+  <img align="right" alt="Coding" width="450" src="https://github.com/JasonL1422/Images/blob/main/main3.png">
 
-<h1 align="center">👋</h1>
-<h3 align="center">A PhD candidate at Penn State Chemical Engineering</h3>
-<img align="right" alt="Coding" width="450" src="https://github.com/JasonL1422/Images/blob/main/main3.png">
+**#spectroscopist #softmatter #film #characterization**
 
-🌱 This space is for sharing the **Mathematica** and **Python** codes/scripts that I created during my research, as well as SolidWorks projects, and more. Hope you find it useful and feel free to contact for modification.
+🔬 [Google Scholar](https://scholar.google.com/citations?user=D79p8IoAAAAJ&hl=en&oi=ao),
+📫 [Linkedin](http://www.linkedin.com/in/jongcheol-lee2)</li>
 
-💬 Ask me about:
-- **VSFG, vibrational spectroscopy, XRD, SAXS/WAXS, AFM, AFM-IR, FTIR, nonlinear optics, FEA, Abaqus**
-- **Cellulose, soft matter structure-property relationship, polymer mechanics**
-- **Multi-scale structural characterization of biomaterials**
-- **Code development for large data processing (hyperspectral image, multiple spectra, etc.) & optical modeling**
-- 🔬 **[Google Scholar](https://scholar.google.com/citations?user=D79p8IoAAAAJ&hl=en&oi=ao)**, **[Linkedin](http://www.linkedin.com/in/jongcheol-lee2)**  
-📫 **jongcheol1422@gmail.com**, **jul1371@psu.edu**
+🌱 This space is for sharing the Mathematica code, Python scripts, and others that I created during my research.</li>
 
-<h3 align="left">Languages and Tools:
-  <a href="https://www.wolfram.com/mathematica" target="_blank" rel="noreferrer">
-    <img src="https://github.com/JasonL1422/Images/blob/main/mathematica.png" alt="Mathematica" width="30" >
-        <a href="https://www.3ds.com/products/simulia/abaqus" target="_blank" rel="noreferrer">
-    <img src="https://github.com/JasonL1422/Images/blob/main/Abaqus.png" alt="Abaqus" width="80"/>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30"/>
-        <a href="https://www.solidworks.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/JasonL1422/Images/blob/main/sw2.png" alt="SolidWorks" width="32"/>
-</h3>
+<li>Vibrational spectroscopy: VSFG (3D, 3d), FTIR, RAIRS
+<li>fs laser system
+<li>X-ray: pXRD, SAXS/WAXS, giwaxs
+<li>AFM, photothermal AFM-IR
+<li>Rietveld analysis, Principal component analysis(PCA)
+<li>Cellulose, biomaterials, wall mechanic
 
-<h3 align="left"> Optical modeling:</h3>
+<h3 align="left">Languages and Tools:</h3>
+Mathematica(<img src="https://github.com/JasonL1422/Images/blob/main/mathematica.png" alt="Mathematica" width="20">),
+Python(<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20"/>),
+Solidworks(<img src="https://github.com/JasonL1422/Images/blob/main/sw2.png" alt="SolidWorks" width="20"/>),
+<img src="https://github.com/JasonL1422/Images/blob/main/Abaqus.png" alt="Abaqus" width="70"/>,
+MAUD (Materials analysis using diffraction)
+    
+<h3 align="left"> research:</h3>
 <ul>
     <li>
       <a href="https://github.com/JasonL1422/Optical-modeling-for-crossed-polarization-microscopy-intensity/blob/main/README.md">CP intensity modeling</a>
       <img src="https://github.com/JasonL1422/Images/blob/main/mathematica.png" alt="Mathematica" width="15">
-    </li>
+    </h5>
     <li>
       <a href="https://github.com/JasonL1422/Fabry-Perot-Etalon/blob/main/README.md">Fabry-Perot Etalon</a>
       <img src="https://github.com/JasonL1422/Images/blob/main/mathematica.png" alt="Mathematica" width="15">
@@ -65,19 +63,13 @@
 
 </ul>
 
-
-
-<h3 align="left"> Finite element analysis:</h3>
+<h3 align="left">Data processing:</h3>
 <ul>
     <li>
       <a href="https://github.com/JasonL1422/Py-script-for-FEA-in-Abaqus/blob/main/README.md">Abaqus parametric study</a>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15"/>
       <img src="https://github.com/JasonL1422/Images/blob/main/Abaqus.png" alt="Abaqus" width="40"/>
     </li>
-</ul>
-
-<h3 align="left">Data processing:</h3>
-<ul>
     <li>
       <a href="https://github.com/JasonL1422/Avg_stress-strain_interpolation/blob/main/README.md">Stress-strain curve average</a>
       <img src="https://github.com/JasonL1422/Images/blob/main/mathematica.png" alt="Mathematica" width="15">    
