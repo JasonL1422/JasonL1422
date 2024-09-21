@@ -8,15 +8,15 @@
 
 🌱 This space is for sharing the Mathematica code, Python scripts, and others that I created during my research.</li>
 
-- Vibrational spectroscopy: VSFG (3D, 3d), FTIR, RAIRS
-- fs laser system
-- X-ray: pXRD, SAXS/WAXS, giwaxs
+- **Vibrational spectroscopy**: V**SFG** (3D, 3d), FTIR, RAIRS
+- Femtosecond laser system
+- **X-ray**: pXRD, SAXS/WAXS, giwaxs
 - AFM, photothermal AFM-IR
 - Rietveld analysis, Principal component analysis(PCA)
 - Cellulose, biomaterials, wall mechanic
 
 **Languages and Tools:**<br>
-Mathematica(<img src="https://github.com/JasonL1422/Images/blob/main/mathematica.png" alt="Mathematica" width="20">),
+<li>Mathematica(<img src="https://github.com/JasonL1422/Images/blob/main/mathematica.png" alt="Mathematica" width="20">),
 Python(<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20"/>),
 Solidworks(<img src="https://github.com/JasonL1422/Images/blob/main/sw2.png" alt="SolidWorks" width="20"/>),
 <img src="https://github.com/JasonL1422/Images/blob/main/Abaqus2.png" alt="Abaqus" width="70"/>,
