@@ -19,7 +19,7 @@
 Mathematica(<img src="https://github.com/JasonL1422/Images/blob/main/mathematica.png" alt="Mathematica" width="20">),
 Python(<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20"/>),
 Solidworks(<img src="https://github.com/JasonL1422/Images/blob/main/sw2.png" alt="SolidWorks" width="20"/>),
-<img src="https://github.com/JasonL1422/Images/blob/main/Abaqus.png" alt="Abaqus" width="70"/>,
+<img src="https://github.com/JasonL1422/Images/blob/main/Abaqus2.png" alt="Abaqus" width="70"/>,
 MAUD (Materials analysis using diffraction)
 
 **Projects:**<br>
@@ -30,30 +30,30 @@ MAUD (Materials analysis using diffraction)
     <td valign="top">
       <ul>
         <li>Research:</li>
-        <a href="https://github.com/JasonL1422/Optical-modeling-for-crossed-polarization-microscopy-intensity/blob/main/README.md">CP intensity</a><br>
+        <a href="https://github.com/JasonL1422/Optical-modeling-for-crossed-polarization-microscopy-intensity/blob/main/README.md">CP int.</a><br>
         <a href="https://github.com/JasonL1422/Fabry-Perot-Etalon/blob/main/README.md">Fabry-Perot Etalon</a><br>
         <a href="https://github.com/JasonL1422/3d-sfg-cal/blob/main/README.md">3d-sfg-calc</a><br>
-        <a href="https://github.com/JasonL1422/PXRD-peak-pos/blob/main/README.md">pXRD peak position</a><br>
+        <a href="https://github.com/JasonL1422/PXRD-peak-pos/blob/main/README.md">pXRD pk pos</a><br>
       </ul>
     </td>
     <td valign="top">
       <ul>
     <li>Etc:</li>
-        <a href="https://github.com/JasonL1422/mass-transfer-through-a-thin-film/blob/main/README.md">Mass transfer-thin-film</a><br>
+        <a href="https://github.com/JasonL1422/mass-transfer-through-a-thin-film/blob/main/README.md">M. T. thin-film</a><br>
         <a href="https://github.com/JasonL1422/pumpkin/blob/main/README.md">Pumpkin</a><br>
-        <a href="https://github.com/JasonL1422/diffraction-grating/blob/main/README.md">Diffraction grating</a><br>
+        <a href="https://github.com/JasonL1422/diffraction-grating/blob/main/README.md">Diff. grating</a><br>
         <a href="https://github.com/JasonL1422/etc/blob/main/README.md">etc</a><br>
       </ul>
     </td>
     <td valign="top">
       <ul>
         <li>Data processing:</li>
-        <a href="https://github.com/JasonL1422/Py-script-for-FEA-in-Abaqus/blob/main/README.md">Abaqus parametric study</a><br>
-        <a href="https://github.com/JasonL1422/Avg_stress-strain_interpolation/blob/main/README.md">Stress-strain curve average</a><br>
+        <a href="https://github.com/JasonL1422/Py-script-for-FEA-in-Abaqus/blob/main/README.md">Abaqus param. study</a><br>
+        <a href="https://github.com/JasonL1422/Avg_stress-strain_interpolation/blob/main/README.md">S-S curve avg</a><br>
         <a href="https://github.com/JasonL1422/AFM-IR-ratiomap-v2/blob/main/README.md">AFM-IR ratio map v2</a><br>
         <a href="https://github.com/JasonL1422/hyperspectral-image-data-processing-through-Mathematica/blob/main/README.md">Hyperspectral image</a><br>
-        <a href="https://github.com/JasonL1422/AFM-IR-spectra-smoothening/blob/main/README.md">AFM-IR curve smoothening</a><br>
-        <a href="https://github.com/JasonL1422/fiber-distribution/blob/main/README.md">Angle distribution visualization</a><br>
+        <a href="https://github.com/JasonL1422/AFM-IR-spectra-smoothening/blob/main/README.md">AFM-IR curve smtng.</a><br>
+        <a href="https://github.com/JasonL1422/fiber-distribution/blob/main/README.md">Angle distb. visual</a><br>
       </ul>
     </td>
     <td valign="top">
