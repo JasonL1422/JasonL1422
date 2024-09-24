@@ -31,7 +31,7 @@ MAUD (Materials analysis using diffraction)
       <ul>
         <li>Research:</li>
         <a href="https://github.com/JasonL1422/Optical-modeling-for-crossed-polarization-microscopy-intensity/blob/main/README.md">CP int.</a><br>
-        <a href="https://github.com/JasonL1422/Fabry-Perot-Etalon/blob/main/README.md">Fabry-Perot Etalon</a><br>
+        <a href="https://github.com/JasonL1422/Fabry-Perot-Etalon/blob/main/README.md">Fabry-Perot etalon</a><br>
         <a href="https://github.com/JasonL1422/3d-sfg-cal/blob/main/README.md">3d-sfg-calc</a><br>
         <a href="https://github.com/JasonL1422/PXRD-peak-pos/blob/main/README.md">pXRD pk pos</a><br>
       </ul>
@@ -39,7 +39,7 @@ MAUD (Materials analysis using diffraction)
     <td valign="top">
       <ul>
     <li>Etc:</li>
-        <a href="https://github.com/JasonL1422/mass-transfer-through-a-thin-film/blob/main/README.md">M. T. thin-film</a><br>
+        <a href="https://github.com/JasonL1422/mass-transfer-through-a-thin-film/blob/main/README.md">M.T. thin-film</a><br>
         <a href="https://github.com/JasonL1422/pumpkin/blob/main/README.md">Pumpkin</a><br>
         <a href="https://github.com/JasonL1422/diffraction-grating/blob/main/README.md">Diff. grating</a><br>
         <a href="https://github.com/JasonL1422/etc/blob/main/README.md">etc</a><br>
