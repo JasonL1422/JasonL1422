@@ -34,6 +34,8 @@ MAUD (Materials analysis using diffraction)
         <a href="https://github.com/JasonL1422/Fabry-Perot-Etalon/blob/main/README.md">Fabry-Perot etalon</a><br>
         <a href="https://github.com/JasonL1422/3d-sfg-cal/blob/main/README.md">3d-sfg-calc</a><br>
         <a href="https://github.com/JasonL1422/PXRD-peak-pos/blob/main/README.md">pXRD pk pos</a><br>
+        <a href="https://github.com/JasonL1422/Py-script-for-FEA-in-Abaqus/blob/main/README.md">Abaqus param. study</a><br>
+        <a href="https://github.com/JasonL1422/Avg_stress-strain_interpolation/blob/main/README.md">S-S curve avg</a><br>
       </ul>
     </td>
     <td valign="top">
@@ -48,10 +50,8 @@ MAUD (Materials analysis using diffraction)
     <td valign="top">
       <ul>
         <li>Data processing:</li>
-        <a href="https://github.com/JasonL1422/Py-script-for-FEA-in-Abaqus/blob/main/README.md">Abaqus param. study</a><br>
-        <a href="https://github.com/JasonL1422/Avg_stress-strain_interpolation/blob/main/README.md">S-S curve avg</a><br>
         <a href="https://github.com/JasonL1422/AFM-IR-ratiomap-v2/blob/main/README.md">AFM-IR ratio map v2</a><br>
-        <a href="https://github.com/JasonL1422/hyperspectral-image-data-processing-through-Mathematica/blob/main/README.md">Hyperspectral image</a><br>
+        <a href="https://github.com/JasonL1422/hyperspectral-image-data-processing-through-Mathematica/blob/main/README.md">SFG hypersp img</a><br>
         <a href="https://github.com/JasonL1422/AFM-IR-spectra-smoothening/blob/main/README.md">AFM-IR curve smtng.</a><br>
         <a href="https://github.com/JasonL1422/fiber-distribution/blob/main/README.md">Angle distb. visual</a><br>
       </ul>
