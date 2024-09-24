@@ -8,7 +8,7 @@
 
 🌱 This space is for sharing the Mathematica code, Python scripts, and others that I created during my research.</li>
 
-- **Vibrational spectroscopy**: V**SFG** (3D, 3d), FTIR, RAIRS
+- **Vibrational spectroscopy**: V**SFG** (3D, 2d), FTIR, RAIRS
 - Femtosecond laser system
 - **X-ray**: pXRD, SAXS/WAXS, giwaxs
 - AFM, photothermal AFM-IR
