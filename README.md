@@ -1,4 +1,5 @@
-<h3 align="left">PhD candidate at Penn State Chem Eng </h3>
+<h3 align="left">PhD at Penn State Chem Eng </h3>
+(Currently a postdoc at UNLV)
   <img align="right" alt="Coding" width="450" src="https://github.com/JasonL1422/Images/blob/main/main3.png">
 
 **#spectroscopist #softmatter #film #characterization**
