@@ -24,6 +24,7 @@ Solidworks(<img src="https://github.com/JasonL1422/Images/blob/main/sw2.png" alt
 MAUD (Materials analysis using diffraction)
 
 **Projects:**<br>
+- [*Multimodal Broadband V-SFG Spectroscopy System maintenance*](https://github.com/JasonL1422/Images/blob/main/fs%20laser.png)
 
 <table>
   <!--------- first row (tr) starts here --------->
@@ -84,7 +85,5 @@ MAUD (Materials analysis using diffraction)
 </table>
 
 -----
-<a href="https://github.com/JasonL1422/Images/blob/main/fs%20laser.png">femtosecond laser system</a>
-<br>
 
 <a href="https://github.com/JasonL1422/notes/blob/main/README.md">Notes</a>
