@@ -1,5 +1,10 @@
+<h3 align="left">Postdoctoral Researcher at AMSL lab, UNLV Mech Eng </h3>
+
+- Fabrication and characterization of Ionic Polymer–Metal Composites (IPMCs)
+- Investigating electro- and thermo-mechanical transduction properties for applications in soft robotics, sensors, and actuators.
+
 <h3 align="left">PhD at Penn State Chem Eng </h3>
-(Currently a postdoc at UNLV)
+
   <img align="right" alt="Coding" width="450" src="https://github.com/JasonL1422/Images/blob/main/main3.png">
 
 **#spectroscopist #softmatter #film #characterization**
