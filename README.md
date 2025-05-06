@@ -1,7 +1,7 @@
 <h3 align="left">Postdoctoral Researcher at AMSL lab, UNLV Mech Eng </h3>
 
 - Fabrication and characterization of Ionic Polymer–Metal Composites (IPMCs)
-- Investigating electro- and thermo-mechanical properties of IPMC for applications in soft robotics and actuators.
+- Investigating electro- and thermo-mechanical properties of IPMC for applications in soft robotics and actuators
 - Custom-built IPMC actuation test system to evaluate electro- and thermo-mechanical property 
 
 <h3 align="left">PhD at Penn State Chem Eng </h3>
