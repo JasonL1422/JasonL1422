@@ -95,6 +95,7 @@ MAUD (Materials analysis using diffraction)
 **@ UNLV:**<br>
 <a href="https://github.com/JasonL1422/SECM-area-scan-data-processing/blob/main/README.md">Scanning Electrochemical Microscopy (SECM) data processing</a><br>
 <a href="https://github.com/JasonL1422/IPMC-actuation-test-data-process"> IPMC actuation data process</a><br>
+<a href="https://github.com/JasonL1422/LCR-Meter+Temp-Controller"> LCR-Meter-Temp-Controller</a><br>
 
 -----
 <a href="https://github.com/JasonL1422/notes/blob/main/README.md">Notes</a>
