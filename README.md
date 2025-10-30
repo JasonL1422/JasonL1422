@@ -56,10 +56,10 @@ MAUD (Materials analysis using diffraction)
     <td valign="top">
       <ul>
     <li>Etc:</li>
+        <a href="https://github.com/JasonL1422/data-combine">Data-combine</a><br>
         <a href="https://github.com/JasonL1422/mass-transfer-through-a-thin-film/blob/main/README.md">M.T. thin-film</a><br>
         <a href="https://github.com/JasonL1422/pumpkin/blob/main/README.md">Pumpkin</a><br>
         <a href="https://github.com/JasonL1422/diffraction-grating/blob/main/README.md">Diff. grating</a><br>
-        <a href="https://github.com/JasonL1422/etc/blob/main/README.md">etc</a><br>
       </ul>
     </td>
     <td valign="top">
