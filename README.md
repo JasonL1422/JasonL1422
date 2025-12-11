@@ -1,15 +1,15 @@
 <h3 align="left">Postdoctoral Researcher at AMSL lab, UNLV Mech Eng </h3>
 
+- Phase changing material (PCM) for thermal energy storage (TES) system
 - Electrochemical characterization of Ionic Polymer–Metal Composites (IPMCs) using scanning electrochemical microscopy (SECM)
 - Investigating electro- and thermomechanical properties of IPMC for applications in soft robotics and actuators
 - Custom-built IPMC actuation test system to evaluate electro- and thermo-mechanical property
 - IPMC-based device fabrication and development
-- Phase changing material (PCM)-based thermal energy storage (TES) system evaluation
 
 **@ UNLV:**<br>
+<a href="https://github.com/JasonL1422/LCR-Meter-Temp-Controller"> 🔥Thermal impedance measurement system development</a><br>
 <a href="https://github.com/JasonL1422/SECM-area-scan-data-processing/blob/main/README.md">Scanning Electrochemical Microscopy (SECM) data processing</a><br>
 <a href="https://github.com/JasonL1422/IPMC-actuation-test-data-process"> IPMC actuation data process</a><br>
-<a href="https://github.com/JasonL1422/LCR-Meter-Temp-Controller"> LCR-Meter-and-Temp-Controller</a><br>
 
 <h3 align="left">PhD at Penn State Chem Eng </h3>
 
