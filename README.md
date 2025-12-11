@@ -11,6 +11,7 @@
 <a href="https://github.com/JasonL1422/SECM-area-scan-data-processing/blob/main/README.md">Scanning Electrochemical Microscopy (SECM) data processing</a><br>
 <a href="https://github.com/JasonL1422/IPMC-actuation-test-data-process"> IPMC actuation data process</a><br>
 
+---
 <h3 align="left">PhD at Penn State Chem Eng </h3>
 
   <img align="right" alt="Coding" width="450" src="https://github.com/JasonL1422/Images/blob/main/main3.png">
