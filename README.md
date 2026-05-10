@@ -76,8 +76,8 @@ MAUD (Materials analysis using diffraction)
       <ul>
         <li>Design:</li>
         <a href="https://github.com/JasonL1422/Extensometer/blob/main/README.md">Extensometer</a><br>
+        <a href="https://github.com/JasonL1422/SolidWorks-CAD/blob/main/README.md">Making 👏</a><br>
         <a href="https://github.com/JasonL1422/Exhaust-holder/blob/main/README.md">Exhaust holder</a><br>
-        <a href="https://github.com/JasonL1422/SolidWorks-CAD/blob/main/README.md">Others</a><br>
       </ul>
     </td>
           
